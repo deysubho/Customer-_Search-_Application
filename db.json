@@ -1,0 +1,344 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfBirth": "1985-03-15",
+      "maritalStatus": "Married",
+      "secureId": "SSN123456789",
+      "addresses": [
+        {
+          "id": "a1",
+          "type": "Home",
+          "street": "123 Main St",
+          "city": "New York",
+          "state": "NY",
+          "zipCode": "10001"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p1",
+          "type": "Mobile",
+          "number": "(555) 123-4567",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e1",
+          "type": "Personal",
+          "address": "john.doe@email.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dateOfBirth": "1990-07-22",
+      "maritalStatus": "Single",
+      "secureId": "SSN987654321",
+      "addresses": [
+        {
+          "id": "a2",
+          "type": "Home",
+          "street": "456 Oak Ave",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zipCode": "90210"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p2",
+          "type": "Mobile",
+          "number": "(555) 987-6543",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e2",
+          "type": "Work",
+          "address": "jane.smith@company.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "firstName": "Michael",
+      "lastName": "Johnson",
+      "dateOfBirth": "1978-12-10",
+      "maritalStatus": "Divorced",
+      "secureId": "SSN456789123",
+      "addresses": [
+        {
+          "id": "a3",
+          "type": "Business",
+          "street": "789 Business Blvd",
+          "city": "Chicago",
+          "state": "IL",
+          "zipCode": "60601"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p3",
+          "type": "Work",
+          "number": "(555) 456-7890",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e3",
+          "type": "Work",
+          "address": "m.johnson@business.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "firstName": "Sarah",
+      "lastName": "Williams",
+      "dateOfBirth": "1992-05-18",
+      "maritalStatus": "Single",
+      "secureId": "SSN789123456",
+      "addresses": [
+        {
+          "id": "a4",
+          "type": "Home",
+          "street": "321 Pine St",
+          "city": "Seattle",
+          "state": "WA",
+          "zipCode": "98101"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p4",
+          "type": "Mobile",
+          "number": "(555) 321-0987",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e4",
+          "type": "Personal",
+          "address": "sarah.w@email.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "firstName": "David",
+      "lastName": "Brown",
+      "dateOfBirth": "1983-09-03",
+      "maritalStatus": "Married",
+      "secureId": "SSN321654987",
+      "addresses": [
+        {
+          "id": "a5",
+          "type": "Home",
+          "street": "654 Elm Dr",
+          "city": "Miami",
+          "state": "FL",
+          "zipCode": "33101"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p5",
+          "type": "Mobile",
+          "number": "(555) 654-3210",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e5",
+          "type": "Personal",
+          "address": "david.brown@email.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "firstName": "Emily",
+      "lastName": "Davis",
+      "dateOfBirth": "1987-11-25",
+      "maritalStatus": "Widowed",
+      "secureId": "SSN147258369",
+      "addresses": [
+        {
+          "id": "a6",
+          "type": "Home",
+          "street": "987 Maple Ln",
+          "city": "Denver",
+          "state": "CO",
+          "zipCode": "80201"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p6",
+          "type": "Home",
+          "number": "(555) 147-2583",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e6",
+          "type": "Personal",
+          "address": "emily.davis@email.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "firstName": "Robert",
+      "lastName": "Miller",
+      "dateOfBirth": "1975-04-12",
+      "maritalStatus": "Married",
+      "secureId": "SSN963852741",
+      "addresses": [
+        {
+          "id": "a7",
+          "type": "Home",
+          "street": "159 Cedar Ave",
+          "city": "Phoenix",
+          "state": "AZ",
+          "zipCode": "85001"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p7",
+          "type": "Mobile",
+          "number": "(555) 963-8527",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e7",
+          "type": "Work",
+          "address": "r.miller@company.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "firstName": "Lisa",
+      "lastName": "Wilson",
+      "dateOfBirth": "1989-08-07",
+      "maritalStatus": "Single",
+      "secureId": "SSN852741963",
+      "addresses": [
+        {
+          "id": "a8",
+          "type": "Home",
+          "street": "753 Birch St",
+          "city": "Boston",
+          "state": "MA",
+          "zipCode": "02101"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p8",
+          "type": "Mobile",
+          "number": "(555) 852-7419",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e8",
+          "type": "Personal",
+          "address": "lisa.wilson@email.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "firstName": "James",
+      "lastName": "Taylor",
+      "dateOfBirth": "1981-01-30",
+      "maritalStatus": "Divorced",
+      "secureId": "SSN741963852",
+      "addresses": [
+        {
+          "id": "a9",
+          "type": "Business",
+          "street": "951 Corporate Way",
+          "city": "Atlanta",
+          "state": "GA",
+          "zipCode": "30301"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p9",
+          "type": "Work",
+          "number": "(555) 741-9638",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e9",
+          "type": "Work",
+          "address": "james.taylor@corp.com",
+          "isPrimary": true
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "firstName": "Amanda",
+      "lastName": "Anderson",
+      "dateOfBirth": "1994-06-14",
+      "maritalStatus": "Single",
+      "secureId": "SSN369258147",
+      "addresses": [
+        {
+          "id": "a10",
+          "type": "Home",
+          "street": "357 Willow Rd",
+          "city": "Portland",
+          "state": "OR",
+          "zipCode": "97201"
+        }
+      ],
+      "phones": [
+        {
+          "id": "p10",
+          "type": "Mobile",
+          "number": "(555) 369-2581",
+          "isPrimary": true
+        }
+      ],
+      "emails": [
+        {
+          "id": "e10",
+          "type": "Personal",
+          "address": "amanda.anderson@email.com",
+          "isPrimary": true
+        }
+      ]
+    }
+  ]
+}
